@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/🌐 Portfolio-Ver en vivo-0047ff?style=for-the-badge" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gastongarcia1295">
+<a href="https://www.linkedin.com/in/gastongarcia1995">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -94,7 +94,7 @@ Tengo 30 años y me especializo en construir soluciones web completas — desde 
 &nbsp;·&nbsp;
 <a href="https://wa.me/5491168087692?text=Hola%20Gast%C3%B3n%2C%20quisiera%20conversar%20para%20iniciar%20un%20proyecto">WhatsApp</a>
 &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/gastongarcia1295">LinkedIn</a>
+<a href="https://www.linkedin.com/in/gastongarcia1995">LinkedIn</a>
 
 </div>
 
