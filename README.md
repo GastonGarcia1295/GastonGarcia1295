@@ -35,9 +35,9 @@
 
 ## Sobre mí / About me
 
-Tengo 30 años y me especializo en construir soluciones web completas — desde una Landing Page que convierte hasta una Aplicación Web con integración de pagos real. Si necesitás algo digital, lo construyo.
+Tengo 30 años y construyo cualquier solución digital que necesites — desde una Landing Page hasta una Aplicación Web compleja, pasando por E-Commerce, Dashboards, integraciones de pago y mucho más. Si lo podés imaginar, lo desarrollo.
 
-*I'm 30 years old and I specialize in building complete web solutions — from a high-converting Landing Page to a Web Application with real payment integration. If you need something digital, I'll build it.*
+*I'm 30 years old and I build whatever digital solution you need — from a Landing Page to a complex Web Application, including E-Commerce, Dashboards, payment integrations and more. If you can imagine it, I'll build it.*
 
 - 🚀 Código 100% propio — sin templates ni soluciones a medias
 - 💳 Integración nativa con **Mercado Pago** para el mercado argentino
