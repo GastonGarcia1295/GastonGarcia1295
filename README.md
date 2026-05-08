@@ -1,57 +1,52 @@
 <div align="center">
 
-# Gastón García
-### Desarrollador Web · Web Developer
-#### Buenos Aires, Argentina 🇦🇷
+<h1>Gastón García</h1>
+
+<h3>Desarrollador Web · Web Developer</h3>
+
+<p><strong>Buenos Aires, Argentina 🇦🇷</strong></p>
+
+<p>
+  <em>Construyo experiencias digitales de alto impacto — desde cero, con código propio.</em><br/>
+  <em>I build high-impact digital experiences — from scratch, with my own code.</em>
+</p>
 
 <br/>
 
-*Construyo experiencias digitales de alto impacto — desde cero, con código propio.*  
-*I build high-impact digital experiences — from scratch, with my own code.*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Ver_en_vivo-0047ff?style=for-the-badge)](https://gastongarcia1295.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gastón_García-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongarcia1295)
-[![Email](https://img.shields.io/badge/Gmail-gastongarcia1295-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongarcia1295@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escribime-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491100000000?text=Hola%20Gast%C3%B3n%2C%20quisiera%20conversar%20para%20iniciar%20un%20proyecto)
+<a href="https://gastongarcia1295.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Ver en vivo-0047ff?style=for-the-badge" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gastongarcia1295">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:gastongarcia1295@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://wa.me/5491168087692?text=Hola%20Gast%C3%B3n%2C%20quisiera%20conversar%20para%20iniciar%20un%20proyecto">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Lo que hago / What I do
+## Sobre mí / About me
 
-```javascript
-const gaston = {
-  edad: 30,
-  ubicacion: "Buenos Aires, Argentina",
-  disponible: true,
-  especialidades: [
-    "Landing Pages de alta conversión",
-    "Aplicaciones Web interactivas",
-    "E-Commerce con Mercado Pago",
-    "Dashboards analíticos",
-    "Soluciones digitales a medida"
-  ]
-}
-```
+Tengo 30 años y me especializo en construir soluciones web completas — desde una Landing Page que convierte hasta una Aplicación Web con integración de pagos real. Si necesitás algo digital, lo construyo.
 
-<br/>
+*I'm 30 years old and I specialize in building complete web solutions — from a high-converting Landing Page to a Web Application with real payment integration. If you need something digital, I'll build it.*
 
-> **¿Necesitás una página web?** La construyo.  
-> **¿Una app web?** También.  
-> **¿Un e-commerce con pagos reales?** Hecho.  
-> El código es 100% propio. Sin templates. Sin soluciones a medias.
-
-> **Need a website?** I'll build it.  
-> **A web app?** Same.  
-> **An e-commerce with real payments?** Done.  
-> 100% own code. No templates. No half-solutions.
+- 🚀 Código 100% propio — sin templates ni soluciones a medias
+- 💳 Integración nativa con **Mercado Pago** para el mercado argentino
+- 🌍 Disponible para proyectos locales e internacionales
+- ⚡ Respondo en menos de 24 horas
 
 ---
 
-## 🛠 Stack
+## Stack
 
 <div align="center">
 
@@ -64,37 +59,42 @@ const gaston = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Proyectos destacados / Featured Projects
+## Proyectos destacados / Featured Projects
 
-| Proyecto | Descripción | Demo |
-|---|---|---|
-| 🌐 **Portfolio** | Mi portfolio personal con carrusel 3D y Canvas animado | [Ver →](https://gastongarcia1295.github.io/Portfolio/) |
-| 📈 **Pulse Analytics** | Dashboard SaaS con datos reales ingresables y gráficos dinámicos | [Ver →](https://gastongarcia1295.github.io/Dashboard-Analitico/) |
-| 👗 **Magnolia Store** | E-commerce de moda con carrito y Mercado Pago integrado | [Ver →](https://magnoliashop.netlify.app) |
-| 🌿 **Bienestar Interior** | Landing page de alta conversión con integración de pagos | [Ver →](https://bienestarinterior.netlify.app) |
-| 📱 **Tech Store Shop** | Landing premium para tienda de iPhones con animaciones Canvas | [Ver →](https://gastongarcia1295.github.io/Landing-TechStore/) |
-| 🧮 **Calculadora de Presupuesto** | Cotizador web con conversión ARS/USD y exportación a PDF | [Ver →](https://gastongarcia1295.github.io/Calculadora-Presupuesto/) |
+| | Proyecto | Descripción | Demo |
+|---|---|---|---|
+| 🌐 | **Portfolio Personal** | Carrusel 3D, Canvas animado con objetos IT flotantes, efecto máquina de escribir | [Ver →](https://gastongarcia1295.github.io/Portfolio/) |
+| 📈 | **Pulse Analytics** | Dashboard SaaS con datos reales, KPIs dinámicos y gráficos interactivos | [Ver →](https://gastongarcia1295.github.io/Dashboard-Analitico/) |
+| 👗 | **Magnolia Store** | E-commerce de moda con carrito funcional y Mercado Pago | [Ver →](https://magnoliashop.netlify.app) |
+| 🌿 | **Bienestar Interior** | Landing page de alta conversión con integración de pagos | [Ver →](https://bienestarinterior.netlify.app) |
+| 📱 | **Tech Store Shop** | Landing premium para tienda Apple con Canvas y animaciones | [Ver →](https://gastongarcia1295.github.io/Landing-TechStore/) |
+| 🧮 | **Calculadora de Presupuesto** | Cotizador web con conversión ARS/USD y exportación a PDF | [Ver →](https://gastongarcia1295.github.io/Calculadora-Presupuesto/) |
 
 ---
 
-## 📬 Contacto / Contact
+## Contacto / Contact
 
 <div align="center">
 
-¿Tenés un proyecto en mente? Escribime — respondo en menos de 24hs.  
-*Have a project in mind? Write me — I respond within 24 hours.*
+¿Tenés un proyecto en mente? Escribime.<br/>
+<em>Have a project in mind? Let's talk.</em>
 
-<br/>
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/gastongarcia1295@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongarcia1295@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Iniciar_conversación-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491100000000?text=Hola%20Gast%C3%B3n%2C%20quisiera%20conversar%20para%20iniciar%20un%20proyecto)
+<a href="mailto:gastongarcia1295@gmail.com">gastongarcia1295@gmail.com</a>
+&nbsp;·&nbsp;
+<a href="https://wa.me/5491168087692?text=Hola%20Gast%C3%B3n%2C%20quisiera%20conversar%20para%20iniciar%20un%20proyecto">WhatsApp</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/gastongarcia1295">LinkedIn</a>
 
 </div>
 
